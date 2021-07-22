@@ -20,7 +20,6 @@ public class AlertHelper extends HelperBase {
 
     public void clickOnAlerts() {
         click(By.cssSelector(".element-group:nth-child(3) ul li:nth-child(2)"));
-     // "//div[contains(@class,'element-list collapse show')]//li[@id='item-1']"
     }
 
     public void clickOnClickMe1() {
